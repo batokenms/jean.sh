@@ -5,3 +5,4 @@ sudo cal
 sudo date
 sudo lcpu
 sudo nproc
+sudo top
